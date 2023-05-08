@@ -6,4 +6,7 @@
 - Responsive Design..
 
 ---
-1 Sty
+1  CSS-TCOZY file
+
+2  Images 
+---
