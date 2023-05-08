@@ -7,7 +7,7 @@
 
 ---
 1  CSS-TCOZY file
+---
 
-2  Images 
-
+2  Images are used in TCOZY-PROJECT are in Images Folder.
 ---
